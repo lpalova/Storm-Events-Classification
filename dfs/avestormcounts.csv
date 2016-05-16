@@ -1,0 +1,369 @@
+STATE,EVENT_CATEGORY,COUNT
+alabama,Flood,86.25
+alabama,Heat,93.15
+alabama,Hurricane,9.6
+alabama,Storm,276.4
+alabama,Tide,1.2
+alabama,Tornado,61.1
+alabama,Wind,379.4
+alabama,Winter Weather,40.125
+alaska,Flood,16.35
+alaska,Heat,5.38461538462
+alaska,Storm,79.6
+alaska,Tide,1.7
+alaska,Tornado,1.5
+alaska,Wind,139.7
+alaska,Winter Weather,41.95
+american samoa,Flood,6.0625
+american samoa,Heat,13.0
+american samoa,Hurricane,1.66666666667
+american samoa,Storm,4.0
+american samoa,Tide,4.93333333333
+american samoa,Tornado,1.0
+american samoa,Wind,2.36363636364
+arizona,Flood,67.2
+arizona,Heat,21.5
+arizona,Storm,70.35
+arizona,Tornado,9.3
+arizona,Wind,108.4
+arizona,Winter Weather,24.15
+arkansas,Flood,133.9
+arkansas,Heat,110.764705882
+arkansas,Hurricane,3.0
+arkansas,Storm,371.8
+arkansas,Tornado,49.3
+arkansas,Wind,359.55
+arkansas,Winter Weather,83.8333333333
+california,Flood,113.8
+california,Heat,86.5
+california,Storm,150.45
+california,Tide,12.55
+california,Tornado,22.65
+california,Wind,205.2
+california,Winter Weather,125.6
+colorado,Flood,55.8
+colorado,Heat,110.666666667
+colorado,Storm,547.3
+colorado,Tornado,44.15
+colorado,Wind,171.5
+colorado,Winter Weather,237.3
+connecticut,Flood,24.55
+connecticut,Heat,7.83333333333
+connecticut,Storm,39.3
+connecticut,Tornado,2.6
+connecticut,Wind,64.6
+connecticut,Winter Weather,27.85
+delaware,Flood,15.55
+delaware,Heat,20.65
+delaware,Hurricane,1.0
+delaware,Storm,22.0
+delaware,Tide,4.64285714286
+delaware,Tornado,1.93333333333
+delaware,Wind,45.8
+delaware,Winter Weather,17.2
+district of columbia,Flood,4.61111111111
+district of columbia,Heat,3.53846153846
+district of columbia,Storm,3.38888888889
+district of columbia,Tornado,2.0
+district of columbia,Wind,7.3
+district of columbia,Winter Weather,3.05263157895
+florida,Flood,83.05
+florida,Heat,46.2777777778
+florida,Hurricane,33.4285714286
+florida,Storm,305.15
+florida,Tide,8.5
+florida,Tornado,108.6
+florida,Wind,304.7
+florida,Winter Weather,39.4444444444
+georgia,Flood,76.4
+georgia,Heat,190.25
+georgia,Hurricane,56.25
+georgia,Storm,429.35
+georgia,Tide,2.28571428571
+georgia,Tornado,37.6
+georgia,Wind,522.55
+georgia,Winter Weather,66.7368421053
+hawaii,Flood,24.9
+hawaii,Heat,41.2631578947
+hawaii,Storm,61.3333333333
+hawaii,Tide,251.55
+hawaii,Tornado,4.70588235294
+hawaii,Wind,20.1
+hawaii,Winter Weather,2.25
+idaho,Flood,20.6
+idaho,Heat,11.9444444444
+idaho,Storm,53.95
+idaho,Tornado,6.0
+idaho,Wind,56.0
+idaho,Winter Weather,92.8
+illinois,Flood,172.05
+illinois,Heat,122.6
+illinois,Storm,486.35
+illinois,Tide,2.0
+illinois,Tornado,60.8
+illinois,Wind,511.2
+illinois,Winter Weather,147.736842105
+indiana,Flood,188.3
+indiana,Heat,32.125
+indiana,Storm,299.0
+indiana,Tornado,27.4
+indiana,Wind,373.1
+indiana,Winter Weather,86.1
+iowa,Flood,214.7
+iowa,Heat,93.7692307692
+iowa,Storm,669.25
+iowa,Tornado,62.3
+iowa,Wind,502.75
+iowa,Winter Weather,141.6
+kansas,Flood,121.35
+kansas,Heat,118.529411765
+kansas,Storm,1181.25
+kansas,Tornado,90.5
+kansas,Wind,613.85
+kansas,Winter Weather,95.75
+kentucky,Flood,216.55
+kentucky,Heat,74.35
+kentucky,Storm,309.9
+kentucky,Tornado,30.3
+kentucky,Wind,485.8
+kentucky,Winter Weather,190.35
+louisiana,Flood,66.2
+louisiana,Heat,43.5
+louisiana,Hurricane,26.125
+louisiana,Storm,168.1
+louisiana,Tide,12.2
+louisiana,Tornado,38.85
+louisiana,Wind,228.6
+louisiana,Winter Weather,29.6
+maine,Flood,42.55
+maine,Heat,63.3333333333
+maine,Hurricane,8.0
+maine,Storm,93.9
+maine,Tide,1.5
+maine,Tornado,3.17647058824
+maine,Wind,160.5
+maine,Winter Weather,120.157894737
+maryland,Flood,60.15
+maryland,Heat,55.05
+maryland,Hurricane,6.5
+maryland,Storm,137.0
+maryland,Tide,4.66666666667
+maryland,Tornado,9.75
+maryland,Wind,195.85
+maryland,Winter Weather,90.95
+massachusetts,Flood,38.7
+massachusetts,Heat,9.45454545455
+massachusetts,Storm,93.45
+massachusetts,Tide,1.0
+massachusetts,Tornado,2.44444444444
+massachusetts,Wind,160.95
+massachusetts,Winter Weather,65.45
+michigan,Flood,35.9
+michigan,Heat,18.2142857143
+michigan,Storm,305.35
+michigan,Tide,3.33333333333
+michigan,Tornado,15.7894736842
+michigan,Wind,346.25
+michigan,Winter Weather,176.65
+minnesota,Flood,69.5
+minnesota,Heat,78.9230769231
+minnesota,Storm,611.2
+minnesota,Tornado,56.25
+minnesota,Wind,382.25
+minnesota,Winter Weather,88.4
+mississippi,Flood,84.3
+mississippi,Heat,89.7272727273
+mississippi,Hurricane,21.6666666667
+mississippi,Storm,251.55
+mississippi,Tornado,51.3
+mississippi,Wind,379.45
+mississippi,Winter Weather,34.0714285714
+missouri,Flood,284.7
+missouri,Heat,167.5
+missouri,Storm,671.2
+missouri,Tornado,52.6
+missouri,Wind,435.75
+missouri,Winter Weather,76.25
+montana,Flood,33.2
+montana,Heat,12.6111111111
+montana,Storm,338.25
+montana,Tornado,12.2
+montana,Wind,302.7
+montana,Winter Weather,114.35
+nebraska,Flood,63.0
+nebraska,Heat,119.5
+nebraska,Storm,796.9
+nebraska,Tornado,57.4
+nebraska,Wind,357.7
+nebraska,Winter Weather,50.8
+nevada,Flood,25.3
+nevada,Heat,5.84615384615
+nevada,Storm,17.2
+nevada,Tornado,2.66666666667
+nevada,Wind,77.4
+nevada,Winter Weather,38.05
+new hampshire,Flood,24.35
+new hampshire,Heat,23.2
+new hampshire,Hurricane,1.0
+new hampshire,Storm,44.8
+new hampshire,Tide,1.0
+new hampshire,Tornado,2.36363636364
+new hampshire,Wind,81.55
+new hampshire,Winter Weather,67.2
+new jersey,Flood,94.95
+new jersey,Heat,109.421052632
+new jersey,Hurricane,3.0
+new jersey,Storm,141.45
+new jersey,Tide,15.75
+new jersey,Tornado,3.94736842105
+new jersey,Wind,242.6
+new jersey,Winter Weather,122.2
+new mexico,Flood,45.1
+new mexico,Heat,134.722222222
+new mexico,Storm,141.25
+new mexico,Tornado,11.05
+new mexico,Wind,108.7
+new mexico,Winter Weather,59.85
+new york,Flood,174.9
+new york,Heat,39.4666666667
+new york,Storm,301.05
+new york,Tide,3.8
+new york,Tornado,9.8
+new york,Wind,439.95
+new york,Winter Weather,254.55
+north carolina,Flood,125.85
+north carolina,Heat,76.0
+north carolina,Hurricane,40.125
+north carolina,Storm,412.45
+north carolina,Tide,1.14285714286
+north carolina,Tornado,32.5
+north carolina,Wind,487.2
+north carolina,Winter Weather,198.15
+north dakota,Flood,41.75
+north dakota,Heat,15.1
+north dakota,Storm,384.85
+north dakota,Tornado,42.6
+north dakota,Wind,243.2
+north dakota,Winter Weather,36.95
+ohio,Flood,163.9
+ohio,Heat,51.5
+ohio,Storm,340.6
+ohio,Tide,3.0
+ohio,Tornado,20.75
+ohio,Wind,519.6
+ohio,Winter Weather,98.7
+oklahoma,Flood,113.55
+oklahoma,Heat,214.411764706
+oklahoma,Storm,697.6
+oklahoma,Tornado,62.8
+oklahoma,Wind,490.55
+oklahoma,Winter Weather,64.1
+oregon,Flood,26.3
+oregon,Heat,21.7
+oregon,Storm,54.75
+oregon,Tide,3.63636363636
+oregon,Tornado,5.36842105263
+oregon,Wind,119.65
+oregon,Winter Weather,81.45
+pennsylvania,Flood,171.4
+pennsylvania,Heat,64.4
+pennsylvania,Storm,259.95
+pennsylvania,Tide,5.375
+pennsylvania,Tornado,16.5
+pennsylvania,Wind,514.65
+pennsylvania,Winter Weather,165.7
+puerto rico,Flood,89.75
+puerto rico,Heat,6.84615384615
+puerto rico,Hurricane,7.25
+puerto rico,Storm,32.15
+puerto rico,Tide,2.78571428571
+puerto rico,Tornado,5.76470588235
+puerto rico,Wind,8.05
+rhode island,Flood,8.78947368421
+rhode island,Heat,4.0
+rhode island,Storm,14.7
+rhode island,Tide,1.0
+rhode island,Tornado,1.6
+rhode island,Wind,24.6
+rhode island,Winter Weather,16.75
+south carolina,Flood,61.0
+south carolina,Heat,41.6666666667
+south carolina,Hurricane,7.25
+south carolina,Storm,238.3
+south carolina,Tide,5.0
+south carolina,Tornado,23.95
+south carolina,Wind,370.7
+south carolina,Winter Weather,38.5
+south dakota,Flood,66.15
+south dakota,Heat,71.0833333333
+south dakota,Storm,570.3
+south dakota,Tornado,29.45
+south dakota,Wind,346.2
+south dakota,Winter Weather,83.25
+tennessee,Flood,108.3
+tennessee,Heat,109.2
+tennessee,Storm,270.25
+tennessee,Tornado,33.4
+tennessee,Wind,476.25
+tennessee,Winter Weather,95.2631578947
+texas,Flood,444.4
+texas,Heat,529.5
+texas,Hurricane,9.2
+texas,Storm,1255.05
+texas,Tide,2.88888888889
+texas,Tornado,139.9
+texas,Wind,817.95
+texas,Winter Weather,147.45
+utah,Flood,35.4
+utah,Heat,40.1176470588
+utah,Storm,77.65
+utah,Tornado,4.05555555556
+utah,Wind,57.0
+utah,Winter Weather,70.75
+vermont,Flood,26.0
+vermont,Heat,6.2
+vermont,Storm,90.7
+vermont,Tornado,1.625
+vermont,Wind,86.4
+vermont,Winter Weather,71.2
+virgin islands,Flood,4.70588235294
+virgin islands,Heat,2.45454545455
+virgin islands,Hurricane,2.75
+virgin islands,Storm,5.4375
+virgin islands,Tide,1.5
+virgin islands,Tornado,4.44444444444
+virgin islands,Wind,2.27272727273
+virginia,Flood,153.3
+virginia,Heat,84.4
+virginia,Hurricane,13.0
+virginia,Storm,401.45
+virginia,Tide,1.0
+virginia,Tornado,21.4
+virginia,Wind,465.0
+virginia,Winter Weather,181.2
+washington,Flood,25.95
+washington,Heat,16.4736842105
+washington,Storm,33.8
+washington,Tide,2.33333333333
+washington,Tornado,4.95
+washington,Wind,80.4
+washington,Winter Weather,75.35
+west virginia,Flood,82.85
+west virginia,Heat,77.7142857143
+west virginia,Storm,152.0
+west virginia,Tornado,3.6
+west virginia,Wind,222.85
+west virginia,Winter Weather,126.7
+wisconsin,Flood,55.55
+wisconsin,Heat,83.7368421053
+wisconsin,Storm,431.85
+wisconsin,Tide,1.5
+wisconsin,Tornado,37.15
+wisconsin,Wind,353.5
+wisconsin,Winter Weather,127.15
+wyoming,Flood,14.55
+wyoming,Heat,4.57142857143
+wyoming,Storm,203.95
+wyoming,Tornado,13.8
+wyoming,Wind,203.95
+wyoming,Winter Weather,59.8
